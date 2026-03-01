@@ -1,2 +1,2 @@
 # perfil-profissional
-Repositório para meu currículo e autlização do mesmo
+Repositório para meu currículo e autualização do mesmo
