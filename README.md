@@ -88,7 +88,6 @@ Profissional com experiência em suporte operacional, atendimento ao cliente e r
 | Curso | Instituição | Status |
 |---|---|---|
 | Web Back-end com Python | SENAC | ✅ Concluído (2025) |
-| Office com IA | Nave do Conhecimento / SENAC RJ | 🔄 Em andamento (conclusão Abr/2026) |
 | Planilhas Google | IFRS Moodle | 🔄 Em andamento |
 | Estudos práticos em CRM, ERP e Helpdesk | Autodidata | 🔄 Em andamento |
 
