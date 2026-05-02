@@ -35,11 +35,10 @@ Profissional com experiência em suporte operacional, atendimento ao cliente e r
 
 ### Sistemas CRM / ERP / Helpdesk
 - Dolibarr ERP/CRM — instalação, configuração e módulos
-- ESPO CRM — funil de vendas e gestão de contatos
-- SuiteCRM — módulos avançados e campanhas
 - osTicket — helpdesk, departamentos e SLA (nível júnior)
 - Hesk Helpdesk — instalação e configuração (nível júnior)
-- UVdesk / Papercups — em avaliação comparativa
+- GLPI — Service Desk
+- Freescout - Opensource baseado no Zendesk (nível Júnior)
 
 ### Ambiente Técnico
 - Laragon / WampServer — servidor web local
