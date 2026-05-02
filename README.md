@@ -82,15 +82,16 @@ Profissional com experiência em suporte operacional, atendimento ao cliente e r
 | Curso | Instituição | Status |
 |---|---|---|
 | Ensino Médio | Colégio e Curso Ponto de Ensino | ✅ Concluído |
-| Assistente de Recursos Humanos | FAETEC EaD | 🔄 Em andamento (previsão Jul/2026) |
+
 
 ### Cursos Técnicos e Complementares
 | Curso | Instituição | Status |
 |---|---|---|
 | Web Back-end com Python | SENAC | ✅ Concluído (2025) |
 | Planilhas Google | IFRS Moodle | 🔄 Em andamento |
-| Estudos práticos em CRM, ERP e Helpdesk | Autodidata | 🔄 Em andamento |
-
+| Estudos práticos em CRM | Hewlett-Packard Foundation | 🔄 Em andamento |
+|IT Customer Support Basics | CISCO Network Academy | 🔄 Em andamento |
+| Assistente de Recursos Humanos | FAETEC EaD | 🔄 Em andamento (previsão Jul/2026) |
 ---
 
 ## 🗂️ Portfólio Técnico
