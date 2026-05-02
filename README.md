@@ -98,9 +98,9 @@ Profissional com experiência em suporte operacional, atendimento ao cliente e r
 | Repositório | Descrição | Status |
 |---|---|---|
 | [ambiente-local-lab](https://github.com/RanderCaillaud/ambiente-local-lab) | Configuração de servidor web local com Laragon e WampServer | 📋 Disponível|
-| [helpdesk-lab](https://github.com/RanderCaillaud/helpdesk-lab) | Instalação e configuração de sistemas de helpdesk opensource | 🔄 Em implementação |
-| [erp-crm-lab](https://github.com/RanderCaillaud/erp-crm-lab) | Instalação e configuração de sistemas ERP e CRM opensource | 🔄 Em implementação |
-| [Service Desk-lab](https://github.com/RanderCaillaud/Service_Desk_lab/) | Instalação e configuração de sistemas Service Desk opensource | 🔄 Em implementação |
+| [helpdesk-lab](https://github.com/RanderCaillaud/helpdesk-lab) | Implementação, documentação, projeto e configuração de sistemas  Suporte na área administrativa e tecnologia opensource | 🔄 Em implementação |
+| [erp-crm-lab](https://github.com/RanderCaillaud/erp-crm-lab) |Implementação, documentação, projeto e configuração de sistemas gestão administrativa e financeira opensource | 🔄 Em implementação |
+| [RH_lab](https://github.com/RanderCaillaud/rh_lab) | Implementação, documentação, projeto e configuração de sistemas de Recursos Humanos opensource | 🔄 Em implementação |
 
 ---
 
