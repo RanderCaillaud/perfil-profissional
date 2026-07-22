@@ -104,4 +104,4 @@ Profissional com experiência em suporte operacional, atendimento ao cliente e r
 
 ---
 
-*Última atualização: maio/2026*
+*Última atualização: Julho/2026*
