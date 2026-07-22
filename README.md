@@ -41,7 +41,7 @@ Profissional com experiência em suporte operacional, atendimento ao cliente e r
 - ESPO CRM — instalação, configuração e módulos
 
 ### Ambiente Técnico
-- Laragon / WampServer — servidor web local
+- Laragon  — servidor web local
 - Apache / MySQL / PHP — ambiente local
 - Git e GitHub — versionamento e portfólio técnico
 - PowerShell — comandos básicos e testes
